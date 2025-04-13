@@ -1,6 +1,6 @@
 title: Skittly Documentation
 description: Documentation Hub for Skittly Projects
-baseurl: "/skittly-docs" # or "" if deploying to root
+baseurl: ""
 url: "https://timedilationv2.github.io"
 theme: minima
 markdown: kramdown
