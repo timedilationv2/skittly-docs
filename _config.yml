@@ -2,5 +2,5 @@ title: Skittly Documentation
 description: Documentation Hub for Skittly Projects
 baseurl: ""
 url: "https://timedilationv2.github.io"
-theme: minima
 markdown: kramdown
+theme: jekyll-theme-cayman
