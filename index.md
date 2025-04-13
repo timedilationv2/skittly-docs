@@ -5,8 +5,7 @@ title: "Skittly Documentation Hub"
 
 Welcome to the **Skittly Documentation Hub**!
 
-This site provides documentation for our projects:
-
+Navigate through the documentation:
 - [Backend & API](skittly.md)
 - [Frontend Application](skittly-frontend.md)
 - [Central Hub & Deployment](skittly-hub.md)
