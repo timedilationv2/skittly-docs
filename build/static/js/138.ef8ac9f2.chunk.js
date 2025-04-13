@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkskittly_docs=self.webpackChunkskittly_docs||[]).push([[138],{138:(e,s,t)=>{e.exports=t.p+"static/media/Frontend_Application_Apr122025_181611.e5245ead60dc50ef9756.md"}}]);
