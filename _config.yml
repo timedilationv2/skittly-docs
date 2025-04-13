@@ -4,3 +4,4 @@ baseurl: ""
 url: "https://timedilationv2.github.io"
 markdown: kramdown
 theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
