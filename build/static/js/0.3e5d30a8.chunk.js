@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskittly_docs=self.webpackChunkskittly_docs||[]).push([[0],[(e,s,t)=>{e.exports=t.p+"static/media/Backend_and_API_Apr122025_181611.7520ee858a9675de29c5.md"}]]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskittly_docs=self.webpackChunkskittly_docs||[]).push([[689],{689:(s,t,e)=>{s.exports=e.p+"static/media/_Footer_Apr122025_181611.2f52b9ba68c341803ec7.md"}}]);

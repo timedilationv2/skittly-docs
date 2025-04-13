@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskittly_docs=self.webpackChunkskittly_docs||[]).push([[875],{875:(s,c,t)=>{s.exports=t.p+"static/media/solutions_for_roadmap_12.4.25_Apr122025_181611.91c66ccfea0c7a88ce97.md"}}]);
