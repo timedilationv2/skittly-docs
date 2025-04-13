@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkskittly_docs=self.webpackChunkskittly_docs||[]).push([[487],{487:(s,e,t)=>{s.exports=t.p+"static/media/Home.9a85e665cf44bc1b8f06.md"}}]);
