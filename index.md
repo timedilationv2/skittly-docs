@@ -1,11 +1,12 @@
 ---
 layout: home
-title: Skittly Documentation Hub
+title: "Skittly Documentation Hub"
 ---
 
-Welcome to the Skittly unified documentation portal.
+Welcome to the **Skittly Documentation Hub**!
 
-- [Backend & API](skittly)
-- [Frontend Application](skittly-frontend)
-- [Central Hub & Deployment](skittly-hub)
-- [Wiki & Resources](wiki)
+Here you can find links to:
+- [Backend & API](skittly.md)
+- [Frontend Application](skittly-frontend.md)
+- [Central Hub & Deployment](skittly-hub.md)
+- [Wiki & Resources](wiki.md)
